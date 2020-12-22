@@ -14,4 +14,4 @@ jobs:
           access-token: ${{ secrets.RADWEBSTOKEN }}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
-          skip-publish: true
+          # skip-publish: true

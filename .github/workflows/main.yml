@@ -1,7 +1,6 @@
 name: Gatsby Publish
 
-# test
-
+# Runs on all branches for any push or PR
 on:
   [push,pull_request]
 
